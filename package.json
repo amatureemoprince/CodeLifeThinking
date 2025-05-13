@@ -1,0 +1,34 @@
+{
+  "name": "代码-生-活-thinking",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "热爱生活和分享技术、设计技巧并立志成为一位优秀的个人开发者！",
+  "author": "lj <2069057986@qq.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^20.6.0 || >=22.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.22",
+    "http-server": "^14.1.1",
+    "sass-embedded": "^1.87.0",
+    "typescript": "^5.8.3",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.22",
+    "vuepress-theme-plume": "1.0.0-rc.146"
+  },
+  "dependencies": {
+    "artplayer": "^5.2.3",
+    "chart.js": "^4.4.9",
+    "echarts": "^5.6.0",
+    "flowchart.ts": "^3.0.1",
+    "mermaid": "^11.6.0"
+  }
+}
