@@ -41,7 +41,6 @@
         <AboutMeCharacter/>
       </div>
       <div class="card-content grid-row-1">
-        <AboutMeFriendLink/>
       </div>
     </div>
   </div>
@@ -138,7 +137,6 @@ import AboutMeText from "./AboutMeText.vue";
 import AboutMeSkill from "./AboutMeSkill.vue";
 import AboutMeCharacter from "./AboutMeCharacter.vue";
 import AboutMeLife from "./AboutMeLife.vue";
-import AboutMeFriendLink from "./AboutMeFriendLink.vue";
 
 interface Comet {
   direction: 'horizontal' | 'vertical'

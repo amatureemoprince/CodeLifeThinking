@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/CodeLifeThinking/',
   lang: 'zh-CN',
   title: '代码・生 活・THINKING',
   description: '热爱生活和分享技术、设计技巧并立志成为一位优秀的个人开发者！',
