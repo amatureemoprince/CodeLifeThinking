@@ -43,7 +43,7 @@
     font-weight: bolder;
     font-size: 1.4rem;
     @media screen and (max-width: 768px) {
-        font-size: 1.1rem; /* 手机端调小 */
+        font-size: 1.0rem;
     }
 }
 /*文章背景*/
@@ -110,9 +110,4 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-@media screen and (max-width: 480px) {
-    .vp-navbar-title span {
-        display: none;
-    }
 }

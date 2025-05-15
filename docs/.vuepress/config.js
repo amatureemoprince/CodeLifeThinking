@@ -3,24 +3,24 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/CodeLifeThinking/',
+  base: '/',
   lang: 'zh-CN',
   title: '代码・生 活・THINKING',
   description: '热爱生活和分享技术、设计技巧并立志成为一位优秀的个人开发者！',
   head: [
-    ['link', { rel: 'icon', href: '/CodeLifeThinking/favicon.ico' }],
-    // ['meta', { name: 'referrer', content: 'no-referrer' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { name: 'referrer', content: 'no-referrer' }],
     ['meta', {
       name: 'description',
       content: '热爱生活和分享技术、设计技巧并立志成为一位优秀的个人开发者！'
     }],
-    // ['script', { type: 'text/javascript' }, `
-    //     (function(c,l,a,r,i,t,y){
-    //       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-    //       t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-    //       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    //     })(window, document, "clarity", "script", "qnwy9r0rp7");
-    //   `]
+    ['script', { type: 'text/javascript' }, `
+        (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "qnwy9r0rp7");
+      `]
   ],
 
   bundler: viteBundler(),
