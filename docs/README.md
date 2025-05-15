@@ -4,5 +4,3 @@ externalLinkIcon: false
 config:
   - type: Custom
 ---
-
-

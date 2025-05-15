@@ -3,10 +3,7 @@ import './theme/styles/index.css'
 import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 import Custom from './theme/components/Custom.vue'
 import AllFriendContent from './theme/components/AllFriendContent.vue'
-
-// import CustomComponent from './theme/components/Custom.vue'
-
-// import './theme/styles/custom.css'
+import './theme/styles/custom.css'
 
 export default defineClientConfig({
   enhance({ app }) {
