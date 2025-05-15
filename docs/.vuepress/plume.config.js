@@ -39,7 +39,6 @@ export default defineThemeConfig({
     location: '四川省资阳市雁江区',
     organization: 'hebei normal university'
   },
-
   navbar,
   notes,
 

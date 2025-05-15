@@ -2,6 +2,7 @@
     font-family: 'LogoFont'; /* 自定义字体的名称 */
     src: url('/font/segoesc.ttf') format('truetype'); /* TTF字体文件的路径 */
 }
+
 /*颜色*/
 :root {
     /*主页 卡片背景*/
@@ -41,7 +42,7 @@
 .vp-navbar-title span{
     font-family: LogoFont, serif;
     font-weight: bolder;
-    font-size: 1.4rem;
+    font-size: 1.05rem;
     @media screen and (max-width: 768px) {
         font-size: 1.0rem;
     }
@@ -68,11 +69,6 @@
         border: 1px var(--vp-blog-post-item-hover-border) solid;
     }
 }
-
-/*
-主页
-*/
-
 /*单个卡片背景*/
 .about-me-card-bg{
     padding: 1rem;

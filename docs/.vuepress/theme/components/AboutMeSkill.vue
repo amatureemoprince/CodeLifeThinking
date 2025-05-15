@@ -34,7 +34,7 @@ const technology = ref([
   { type: 'Pinia', icon: 'logos:pinia' },
   { type: '微信小程序', icon: 'tabler:brand-miniprogram' },
   { type: 'Jetpack Compose',icon: 'devicon:jetpackcompose'},
-  { type: 'JavaScript', icon: 'vscode-icons:file-type-js' },
+  { type: '2.JavaScript', icon: 'vscode-icons:file-type-js' },
   { type: 'TypeScript', icon: 'vscode-icons:file-type-typescriptdef' },
   { type: 'Less', icon: 'logos:less' },
   { type: 'CSS3', icon: 'logos:css-3' },
