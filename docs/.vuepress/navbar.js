@@ -11,5 +11,4 @@ export const navbar = defineNavbarConfig([
 
   { text: '更多', link: '/more/', icon:'mingcute:more-3-fill', activeMatch: '^/more/',},
 
-  {text: 'java', link: '/java/'}
 ])

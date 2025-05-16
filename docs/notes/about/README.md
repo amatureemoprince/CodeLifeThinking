@@ -46,6 +46,9 @@ permalink: /about/
 - [refactoringguru](https://refactoringguru.cn/)：关于设计模式的优秀网站，使用形象的图文来解释设计模式的核心思想；
 - 未完待绪...
 
+## 联系作者
+因为本网站现不打算接入评论，所以有需要联系作者添加QQ：599642769@qq.com
+
 
 
 
