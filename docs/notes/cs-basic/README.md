@@ -63,7 +63,7 @@ permalink: /cs-basic/
   整套看的王道视频，咸鱼学长讲得挺好的
 
 - 计算机组成
-  time=2025-05-030 type=success
+  time=2025-05-30 type=success
 
   力推上面的**湖南教书匠**。
 :::
