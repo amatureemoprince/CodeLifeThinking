@@ -22,7 +22,6 @@ export default defineUserConfig({
         })(window, document, "clarity", "script", "qnwy9r0rp7");
       `]
   ],
-
   bundler: viteBundler(),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
@@ -30,15 +29,13 @@ export default defineUserConfig({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     hostname: 'https://codelifethinking.com/',
     /* 文档仓库配置，用于 editLink */
-    docsRepo: '',
+    docsRepo: 'https://github.com/amatureemoprince/CodeLifeThinking/',
     docsDir: 'docs',
-    docsBranch: '',
+    docsBranch: 'main',
     /* 页内信息 */
     editLink: true,
     lastUpdated: true,
     contributors: true,
-    // changelog: false,
-
     /**
      * 博客
      * @see https://theme-plume.vuejs.press/config/basic/#blog
@@ -129,7 +126,7 @@ export default defineUserConfig({
         size: true,       // 启用图片大小
       },
       include: true,      // 在 Markdown 文件中导入其他 markdown 文件内容
-      imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
+      imageSize: 'all', // 启用 自动填充 图片宽高属性，避免页面抖动
     },
   }),
 })

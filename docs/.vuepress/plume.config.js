@@ -1,7 +1,6 @@
 import { defineThemeConfig } from 'vuepress-theme-plume'
 import { navbar } from './navbar'
-import { notes } from './notes'
-
+import notes from "./notes/index.js";
 export default defineThemeConfig({
   logo: '/avatar.jpg',
   appearance: true,  // 配置 深色模式
@@ -41,7 +40,6 @@ export default defineThemeConfig({
   },
   navbar,
   notes,
-
   /**
    * 公告板
    * @see https://theme-plume.vuejs.press/guide/features/bulletin/
