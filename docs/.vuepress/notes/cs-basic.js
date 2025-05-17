@@ -68,11 +68,11 @@ export default defineNoteConfig({
                 },
                 {
                     text: '查找算法',
-                    link: 'search-algo',
+                    link: 'search-algo/',
                 },
                 {
                     text: '排序算法',
-                    link: 'sort-algo',
+                    link: 'sort-algo/',
                 }
             ]
         },
@@ -113,6 +113,30 @@ export default defineNoteConfig({
                 {
                     text: '计算机系统概述',
                     link: 'computer-overview/'
+                },
+                {
+                    text: '数据在计算机中的表示方式',
+                    link: 'data-performance/'
+                },
+                {
+                    text: '存储系统',
+                    link: 'storage-sys/'
+                },
+                {
+                    text: '指令系统',
+                    link: 'instruction-sys/'
+                },
+                {
+                    text: '中央处理器',
+                    link: 'cpu/'
+                },
+                {
+                    text: '总线',
+                    link: 'bus/'
+                },
+                {
+                    text: '输入/输出系统',
+                    link: 'in-out-sys/'
                 }
             ]
         }
