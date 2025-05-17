@@ -26,7 +26,7 @@ permalink: /about/
 
 该教程是我对于学习的内容的深度理解和总结，并不像其它教程一样从零开始，故可能需要一点点基础知识。
 
-由于本教程所有内容都是我独自敲键盘创作的，所以**错误**是不可避免，若发现错误，请在我的Github上提交issues，谢谢您的纠正！
+由于本教程所有内容都是我独自敲键盘创作的，所以**错误**是不可避免，若发现错误，请在我的Github上提交issues或直接点击文章下面的**编辑此页**帮助我修改，谢谢您的纠正！
 
 该项目的::tdesign:logo-github-filled::仓库地址：[代码・生 活・THINKING](https://github.com/amatureemoprince/CodeLifeThinking/)
 ## 推荐博客
