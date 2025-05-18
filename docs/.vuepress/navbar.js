@@ -1,7 +1,7 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const navbar = defineNavbarConfig([
-  { text: '关于', link: '/', icon:'cib:about-me'},
+  { text: '关于作者', link: '/', icon:'cib:about-me'},
 
   { text: '教程', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/about/',},
 
@@ -9,6 +9,22 @@ export const navbar = defineNavbarConfig([
 
   { text: '项目', link: '/projects/', icon:'codicon:github-project', activeMatch: '^/products/'},
 
-  { text: '更多', link: '/more/', icon:'mingcute:more-3-fill', activeMatch: '^/more/',},
+  {
+    text: '更多',
+    activeMatch: '^/more/',
+    icon:'mingcute:more-3-fill',
+    items: [
+      {
+        text: '考研历程',
+        icon: 'game-icons:graduate-cap',
+        link: '/more/postgraduate-process/README.md',
+      },
+      {
+        text: '网站导航',
+        link: '/more/website-nav/',
+        icon: 'icon-park:add-web'
+      },
+    ]
+    },
 
 ])
