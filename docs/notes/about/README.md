@@ -30,21 +30,9 @@ permalink: /about/
 
 该项目的::tdesign:logo-github-filled::仓库地址：[代码・生 活・THINKING](https://github.com/amatureemoprince/CodeLifeThinking/)
 ## 推荐博客
-当然，网络上优质内容也是数不胜数，我认为非常优质的博客如下：
+当然，网络上优质内容也是数不胜数，我也喜欢收集优质的博客和网站。
 
-> [!NOTE]
-> 排名不分好坏，以下每一个网站内容质量都十分高！
-
-- [廖雪峰的官方网站](https://liaoxuefeng.com/)：这位前辈的教程通俗易懂，是非常适合学习的；
-- [二哥的Java进阶之路](https://javabetter.cn/)：这是开启我对于学习热情的启蒙网站，内容也是风趣幽默，令人印象深刻；
-- [小林coding](https://xiaolincoding.com/)：图解知识系列内容；
-- [labuladong的算法笔记](https://labuladong.online/)：学习算法的优秀博客，免费版也可以学习到很多优秀的思维；
-- [java的官方学习文档](https://docs.oracle.com/)：没的说，里面的内容是学习java的最优质资料（自认为）；
-- [阮一峰的个人网站](https://www.ruanyifeng.com/)：各种科技前沿、文学作品、甚至找工作都有的一个全面网站，最让我敬佩的是一复一日的Github更新记录；
-- [酷壳](https://coolshell.cn/)：左耳朵耗子的个人博客；
-- [JavaGuid](https://javaguide.cn/)：关于Java技术学习的文档；
-- [refactoringguru](https://refactoringguru.cn/)：关于设计模式的优秀网站，使用形象的图文来解释设计模式的核心思想；
-- 未完待绪...
+详细内容请点击：[优质网站导航](../more/web-site.md)
 
 ## 联系作者
 因为本网站现不打算接入评论，如需要联系，添加作者QQ：599642769@qq.com
