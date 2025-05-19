@@ -24,6 +24,9 @@ export default defineNoteConfig({
     },
     {
       text: '人工智能', link: '/artificial-intelligence/', icon: 'catppuccin:adobe-ai',
+    },
+    {
+      text: '英语', link: '/english/', icon: 'icon-park:english',
     }
   ]
 })
