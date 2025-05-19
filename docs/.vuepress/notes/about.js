@@ -5,6 +5,9 @@ export default defineNoteConfig({
   link: '/about/',
   sidebar: [
     {
+      text: '读者必看内容', link: '/about/', icon: 'fluent:important-12-regular',
+    },
+    {
       text: 'Java教程', link: '/java/', icon: 'logos:java',
     },
     {
