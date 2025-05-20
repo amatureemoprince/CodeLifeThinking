@@ -8,10 +8,10 @@ export default defineNoteConfig({
       text: '读者必看内容', link: '/about/', icon: 'fluent:important-12-regular',
     },
     {
-      text: 'Java教程', link: '/java/', icon: 'logos:java',
+      text: 'Java笔记', link: '/java/', icon: 'logos:java',
     },
     {
-      text: 'JavaScript教程', link: '/javascript/', icon: 'vscode-icons:file-type-light-js',
+      text: 'JavaScript笔记', link: '/javascript/', icon: 'vscode-icons:file-type-light-js',
     },
     {
       text: '计算机基础', link: '/cs-basic/', icon: 'icon-park:laptop-computer',

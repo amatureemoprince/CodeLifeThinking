@@ -16,6 +16,19 @@ export default defineNoteConfig({
                     link: 'CET-6/'
                 }
             ]
+        },
+        {
+            collapsed: true,
+            text: "单词",
+            prefix: '/english/words/',
+            icon: 'icon-park:word',
+            items: [
+                {
+                    text: '简单词',
+                    icon: 'ph:fire-simple-bold',
+                    link: 'simple/'
+                }
+            ]
         }
     ],
 })
