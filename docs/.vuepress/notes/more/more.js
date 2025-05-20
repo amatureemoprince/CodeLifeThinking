@@ -20,8 +20,12 @@ export default defineNoteConfig({
                     icon: 'stash:data-date',
                     link: '25-5/'
                 }
-            ]
-
+            ],
+        },
+        {
+            text: '优质网站',
+            icon: 'arcticons:websitemonitor',
+            link: '/more/website-nav/'
         }
     ],
 })

@@ -5,7 +5,7 @@ import csBasic from "./cs-basic.js";
 import math from "./math.js";
 import ai from "./ai.js"
 import english from "./english.js";
-import postgraduateProcess from "./more/postgraduate-process.js";
+import more from "./more/more.js";
 export default defineNotesConfig({
     dir: '/notes/',
     link: '/',
@@ -15,7 +15,7 @@ export default defineNotesConfig({
         csBasic,
         math,
         ai,
-        postgraduateProcess,
+        more,
         english,
     ]
 })
