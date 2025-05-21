@@ -8,10 +8,12 @@ export default defineNoteConfig({
             collapsed: false,
             prefix: '/math/higher-mathematics',
             text: '高数',
-            icon: 'fluent:math-formula-16-regular',
+            icon: 'arcticons:speed-math',
             items: [
                 {
-
+                    text: '函数、极限、连续',
+                    link: 'function-limit-continuation/',
+                    icon: 'gravity-ui:function'
                 },
                 {
 
