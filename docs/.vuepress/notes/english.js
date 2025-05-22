@@ -29,6 +29,19 @@ export default defineNoteConfig({
                     link: 'simple/'
                 }
             ]
+        },
+        {
+            collapsed: true,
+            text: '技巧',
+            icon: 'hugeicons:language-skill',
+            prefix: '/english/skill/',
+            items: [
+                {
+                    text: 'ETC-6',
+                    icon: 'icon-park:english-mustache',
+                    link: 'ETC-6/'
+                }
+            ]
         }
     ],
 })

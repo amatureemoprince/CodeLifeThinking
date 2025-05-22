@@ -16,7 +16,7 @@ export const navbar = defineNavbarConfig([
     items: [
       {
         text: '我和小媛',
-        link: '/xiao-yuan/',
+        link: '/xiao-yuan-and-xiao-jie/',
         icon: 'material-symbols-light:ecg-heart'
       },
       {

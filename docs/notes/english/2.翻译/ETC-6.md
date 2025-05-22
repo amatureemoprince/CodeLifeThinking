@@ -133,3 +133,22 @@ be steadier and further-reaching.
 
 **blast off** 发射
 :::
+
+## 2024-12-1
+> 北斗卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经不懈努力，攻克
+> 了一系列技术难题，北斗系统最终实现了全球覆盖和高精度定位，使中国成为世界上少数几个独立拥有全球
+> 卫星导航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。
+> 北斗系统现在已经在国际上得到广泛认可，开始为越来越多的国家和地区提供优质服务。
+
+<div class="english-composition">
+The successful research and development of the Beidou Navigation Satellite System
+is a significant scientific and technological achievement that China has made since 
+the reform and opening-up. Through relentless efforts, the researchers successfully overcame 
+a series of technical challenges and developed the Beidou system which has ultimately achieved 
+global coverage and high-precision positioning, making China one of the few countries 
+in the world with an independent global satellite navigation system. The Beidou system 
+has now been widely applied to various fields, including transportation, disaster
+relief, weather forecasting, and public safety. Today, the Beidou system has gained
+worldwide recognition and begins to provide high-quality services for an increasing
+number of countries and regions.
+</div>
