@@ -9,61 +9,6 @@ permalink: /english/translation/CET-6/
 > 自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一篇繁荣，现场却见不到
 > 人工操作，而且能够24小时不间断工作。洋山港将不断发展，为把上海建成一个全球航运中心做出更大贡献。
 
-<style>
-.english-composition {
-  font-family: 'Times New Roman', Times, serif; /* 英语作文常用字体 */
-  font-size: 1.1rem;
-  line-height: 1.8; /* 增加行距提高可读性 */
-  color: #333; /* 深灰色文字更柔和 */
-  text-align: justify; /* 两端对齐 */
-  hyphens: auto; /* 自动断词换行 */
-  max-width: 800px; /* 控制行宽提高阅读体验 */
-  margin: 0 auto; /* 居中显示 */
-  padding: 1.5rem;
-  background-color: #f9f9f9; /* 浅色背景 */
-  border-left: 4px solid #4a6fa5; /* 左侧装饰线 */
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* 轻微阴影 */
-}
-
-/* 首行缩进 */
-.english-composition p {
-  text-indent: 2em;
-  margin-bottom: 1rem;
-}
-
-/* 段落间距 */
-.english-composition p + p {
-  margin-top: 0.5rem;
-}
-
-/* 标题样式 */
-.english-composition h2 {
-  font-family: 'Georgia', serif;
-  color: #2c3e50;
-  text-align: center;
-  margin-bottom: 1.5rem;
-  font-weight: normal;
-  font-size: 1.5rem;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.5rem;
-}
-
-/* 链接样式 */
-.english-composition a {
-  color: #4a6fa5;
-  text-decoration: none;
-  border-bottom: 1px dotted #4a6fa5;
-}
-
-/* 响应式调整 */
-@media (max-width: 768px) {
-  .english-composition {
-    font-size: 1rem;
-    padding: 1rem;
-  }
-}
-</style>
-
 <div class="english-composition">Yangshan Port, a key part of the Shanghai Shipping Center, stands as China’s first deep-water port and one of the largest deep-water port in the world. After nearly two decades of development, the port has achieved a high degree of automation . The application of digital technology and artificial intelligence has greatly reduced labor coasts as well as carbon emissions. The independently developed terminal management system can realize remote control of large equipment at a distance of over 100 kilometers. Although Yangshan Port appears to be bustling, there is actually no man operating on site. It can operate continuously around the clock. The port will continue to develop and make greater contributions to building Shanghai into a global shipping center.</div>
 
 ::: info 关联词汇
@@ -152,3 +97,74 @@ relief, weather forecasting, and public safety. Today, the Beidou system has gai
 worldwide recognition and begins to provide high-quality services for an increasing
 number of countries and regions.
 </div>
+
+::: info 关联词汇
+**all-weather** 全天候
+
+**technological breakthrough** 技术突破
+
+**signal coverage area** 信号覆盖范围
+
+**space infrastructure** 太空基础设施
+
+**global positioning** 全球定位
+
+**remote sensing technology** 遥感技术
+
+**communication technology** 通信技术
+:::
+
+<style>
+.english-composition {
+  font-family: 'Times New Roman', Times, serif; /* 英语作文常用字体 */
+  font-size: 1.1rem;
+  line-height: 1.8; /* 增加行距提高可读性 */
+  color: #333; /* 深灰色文字更柔和 */
+  text-align: justify; /* 两端对齐 */
+  hyphens: auto; /* 自动断词换行 */
+  max-width: 800px; /* 控制行宽提高阅读体验 */
+  margin: 0 auto; /* 居中显示 */
+  padding: 1.5rem;
+  background-color: #f9f9f9; /* 浅色背景 */
+  border-left: 4px solid #4a6fa5; /* 左侧装饰线 */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* 轻微阴影 */
+}
+
+/* 首行缩进 */
+.english-composition p {
+  text-indent: 2em;
+  margin-bottom: 1rem;
+}
+
+/* 段落间距 */
+.english-composition p + p {
+  margin-top: 0.5rem;
+}
+
+/* 标题样式 */
+.english-composition h2 {
+  font-family: 'Georgia', serif;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-weight: normal;
+  font-size: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+/* 链接样式 */
+.english-composition a {
+  color: #4a6fa5;
+  text-decoration: none;
+  border-bottom: 1px dotted #4a6fa5;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .english-composition {
+    font-size: 1rem;
+    padding: 1rem;
+  }
+}
+</style>
