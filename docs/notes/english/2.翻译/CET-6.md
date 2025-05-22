@@ -1,5 +1,5 @@
 ---
-title: CET-6
+title: 翻译
 createTime: 2025/05/19 20:49:43
 permalink: /english/translation/CET-6/
 ---

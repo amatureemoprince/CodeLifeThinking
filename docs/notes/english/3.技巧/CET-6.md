@@ -1,7 +1,7 @@
 ---
 title: CET-6
 createTime: 2025/05/22 21:05:47
-permalink: /english/skill/ETC-6/
+permalink: /english/skill/CET-6/
 ---
 ## 7选5
 这道题较为简单。我第一次做时不知道怎样解题，在对照答案做过一边后，就摸清楚考点了。

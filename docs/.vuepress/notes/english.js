@@ -37,9 +37,9 @@ export default defineNoteConfig({
             prefix: '/english/skill/',
             items: [
                 {
-                    text: 'ETC-6',
+                    text: 'CET-6',
                     icon: 'icon-park:english-mustache',
-                    link: 'ETC-6/'
+                    link: 'CET-6/'
                 }
             ]
         }
