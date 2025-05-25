@@ -49,6 +49,15 @@ export default defineUserConfig({
       postCover: 'right', // 文章封面位置
       pagination: 15, // 每页显示文章数量
     },
+    git: true,
+
+    changelog: {
+      maxCount: 6,
+      repoUrl: 'https://github.com/amatureemoprince/CodeLifeThinking',
+      commitUrlPattern: ':repo/commit/:hash',
+      issueUrlPattern: ':repo/issues/:issue',
+      tagUrlPattern: ':repo/releases/tag/:tag'
+    },
 
     /* 博客文章页面链接前缀 */
     article: '/article/',
