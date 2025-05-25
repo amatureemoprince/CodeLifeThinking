@@ -11,7 +11,7 @@ permalink: /english/translation/CET-6/
 
 <div class="english-composition">Yangshan Port, a key part of the Shanghai Shipping Center, stands as China’s first deep-water port and one of the largest deep-water port in the world. After nearly two decades of development, the port has achieved a high degree of automation . The application of digital technology and artificial intelligence has greatly reduced labor coasts as well as carbon emissions. The independently developed terminal management system can realize remote control of large equipment at a distance of over 100 kilometers. Although Yangshan Port appears to be bustling, there is actually no man operating on site. It can operate continuously around the clock. The port will continue to develop and make greater contributions to building Shanghai into a global shipping center.</div>
 
-::: info 关联词汇
+::: note 关联词汇
 
 **smart port** 智能港口
 
@@ -61,7 +61,7 @@ progress of human civilization. Looking ahead, China's journey to explore space 
 be steadier and further-reaching.
 </div>
 
-::: info 关联词汇
+::: note 关联词汇
 **space station** 太空站
 
 **space exploration** 太空探索
@@ -98,7 +98,7 @@ worldwide recognition and begins to provide high-quality services for an increas
 number of countries and regions.
 </div>
 
-::: info 关联词汇
+::: note 关联词汇
 **all-weather** 全天候
 
 **technological breakthrough** 技术突破
@@ -113,6 +113,50 @@ number of countries and regions.
 
 **communication technology** 通信技术
 :::
+
+## 2024-6-1
+> 中国的传统婚礼习俗历史悠久，从周朝开始就逐渐形成了一套完整的婚礼仪式，有些一直沿用至今。如今
+> 的中式婚礼习俗已有很大变化，但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰，以象征喜庆的红色为
+> 主色调，摆放着许多祝愿新人幸福的物件。在婚礼上，新人要拜天地、拜父母和相互对拜，然后设宴招待
+> 宾客，并向宾客敬酒致谢。今天，许多年轻人依然钟情于传统的中式婚礼，体验独特而美好的中式浪漫。
+
+<div class="english-composition">
+The traditional Chinese wedding customs, which gradually formed a complete set of 
+ceremonies during the Zhou Dynasty, boast a long history and some of these customs
+have remained in use ever since. While modern Chinese wedding customs have undergone
+significant changes, the wedding ceremonies remain very grand. The wedding venue 
+is elaborately decorated, with the predominant color of jubilant red, and adorned 
+with many objects that wish the new couple happiness. At the wedding ceremony, the
+couple first bows to Heaven and Earth, then to their parents, and finally to each 
+other, before hosting an entertaining banquet to toast and express gratitude to 
+their guests. Even today, traditional Chinese weddings remain a favorite among many
+young people, who cherish the unique and wonderful Chinese-style romance.
+</div>
+
+::: note 关联词汇
+**traditional rituals** 传统礼仪
+
+**dowry** 嫁妆
+
+**wedding ring** 婚戒
+
+**red envelope** 红包
+
+**wedding decoration** 婚礼布置
+
+**wedding blessing** 婚礼祝福
+
+**friends and relatives** 亲友团
+:::
+
+
+
+
+
+
+
+
+
 
 <style>
 .english-composition {
