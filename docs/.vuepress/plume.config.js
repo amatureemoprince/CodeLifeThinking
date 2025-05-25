@@ -24,7 +24,7 @@ export default defineThemeConfig({
   docsDir: 'docs',
   /* 站点页脚 */
   footer: {
-    message: '代码・生 活・THINKING',
+    message: '代码・生 活・THINKING | Copyright © 2023.5.20-至今 阿杰，All rights reserved',
   },
 
   /**
