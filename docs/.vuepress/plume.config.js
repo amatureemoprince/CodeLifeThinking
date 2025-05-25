@@ -24,7 +24,7 @@ export default defineThemeConfig({
   docsDir: 'docs',
   /* 站点页脚 */
   footer: {
-    message: '代码・生 活・THINKING - 🥼 诗和远方 ✒️ - Lj ❤ Gy',
+    message: '代码・生 活・THINKING',
   },
 
   /**

@@ -14,11 +14,11 @@ export const navbar = defineNavbarConfig([
     activeMatch: '^/more/',
     icon:'mingcute:more-3-fill',
     items: [
-      {
-        text: '我和小媛',
-        link: '/xiao-yuan-and-xiao-jie/',
-        icon: 'material-symbols-light:ecg-heart'
-      },
+      // {
+      //   text: '我和小媛',
+      //   link: '/xiao-yuan-and-xiao-jie/',
+      //   icon: 'material-symbols-light:ecg-heart'
+      // },
       {
         text: '考研历程',
         icon: 'game-icons:graduate-cap',
