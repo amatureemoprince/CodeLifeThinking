@@ -149,6 +149,24 @@ young people, who cherish the unique and wonderful Chinese-style romance.
 **friends and relatives** 亲友团
 :::
 
+## 2024-6-2
+> 中国盛产竹子，是最早开发利用竹资源的国家。竹子在中国分布广泛，品种丰富。竹子实用性强，用于生产和生活的方方面面，
+> 如筷子、桌椅的制作和桥梁、房屋的建造。中国人爱竹，自古以来就有无数文人以竹为主题，创作了绚丽多彩的文学和
+> 绘画作品。竹子主干笔直，象征正直的品格。竹子具有强大的生命力和适应能力，无论环境多么恶劣，都能够顽强生存，
+> 因而寓意坚韧不拔的精神。几千年来，竹子一直被视为中华民族品格的象征。
+
+<div class="english-composition">
+China boasts abundant bamboo production and also stands as the earliest country to develop
+and utilize bamboo resources. Bamboo is widely distributed in China and rich in variety.
+Known for its high practicality, it is used in many aspects of production and daily life,
+such as the making of chopsticks, tables, as well as the construction of bridges and houses.
+Chinese people's love for bamboo has been enduring, and since ancient times, countless literati 
+have created colorful literary and artistic works with bamboo as the theme. Bamboo, known for 
+its straight stem, symbolizes integrity. Its powerful vitality and adaptability allow it to
+thrive in any adverse conditions, thereby signifying unyielding perseverance. For thousands of 
+years, bamboo has been regarded as a symbol of the character of the Chinese nation.
+</div>
+
 
 
 
@@ -161,7 +179,7 @@ young people, who cherish the unique and wonderful Chinese-style romance.
 <style>
 .english-composition {
   font-family: 'Times New Roman', Times, serif; /* 英语作文常用字体 */
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   line-height: 1.8; /* 增加行距提高可读性 */
   color: #333; /* 深灰色文字更柔和 */
   text-align: justify; /* 两端对齐 */
