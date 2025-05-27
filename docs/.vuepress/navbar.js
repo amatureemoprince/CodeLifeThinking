@@ -3,7 +3,7 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 export const navbar = defineNavbarConfig([
   { text: '首页', link: '/', icon:'material-symbols:home-rounded'},
 
-  { text: '笔记', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/about/',},
+  { text: '知识库', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/about/',},
 
   {text: '博客', link: '/blog/', icon:'material-symbols:article-outline', activeMatch: '^(/blog/|/article/)'},
 
