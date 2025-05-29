@@ -27,7 +27,12 @@ export default defineNoteConfig({
                     text: '简单词',
                     icon: 'ph:fire-simple-bold',
                     link: 'simple/'
-                }
+                },
+                {
+                    text: '难词',
+                    icon: 'arcticons:hard-dance',
+                    link: 'hard/'
+                },
             ]
         },
         {
