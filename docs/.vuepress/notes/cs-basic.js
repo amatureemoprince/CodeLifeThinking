@@ -87,7 +87,7 @@ export default defineNoteConfig({
                     link: 'os-prefer/'
                 },
                 {
-                    text: '进程管理',
+                    text: '进程与线程',
                     link: 'process-manager/'
                 },
                 {
