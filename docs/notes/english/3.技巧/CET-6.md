@@ -1,7 +1,7 @@
 ---
 title: CET-6
 createTime: 2025/05/22 21:05:47
-permalink: /english/skill/CET-6/
+permalink: /postgraduate/english/skill/CET-6/
 ---
 
 ## Reading Comprehension

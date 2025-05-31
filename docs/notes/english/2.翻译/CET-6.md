@@ -1,7 +1,7 @@
 ---
 title: 翻译
 createTime: 2025/05/19 20:49:43
-permalink: /english/translation/CET-6/
+permalink: /postgraduate/english/translation/CET-6/
 ---
 ## 2024-12-2
 > 洋山港是上海航运中心的重要组成部分，是中国第一个深水港，也是世界上规模最大的深水港之一。经过
