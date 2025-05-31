@@ -33,6 +33,11 @@ export default defineNoteConfig({
                     icon: 'arcticons:hard-dance',
                     link: 'hard/'
                 },
+                {
+                    text: '长难词',
+                    icon: 'game-icons:swords-emblem',
+                    link: 'long-hard/'
+                }
             ]
         },
         {
