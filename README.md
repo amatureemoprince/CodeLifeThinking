@@ -55,29 +55,34 @@
 > 该知识库会持续更新，欢迎收藏star😄！
 
 # 学习目录
-## [计算机基础知识]()
-### [计算机网络]()
+## [计算机基础知识](https://amatureemoprince.github.io/CodeLifeThinking/cs-basic/)
+### 计算机网络
 
 
-### [数据结构]()
+### 数据结构
 
 
-### [操作系统]()
+### 操作系统
 - [操作系统概述]()
 - [进程与线程]()
 
 
-### [计算机组成原理]()
+### 计算机组成原理
 
 
-## [考研公共课]()
-### [高数]()
+## [考研公共课](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/)
+### 高数
 
-### [线代]()
+### 线代
 
-### [英语]()
+### 英语
+- [简单单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/simple/)
+- [难单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/hard/)
+- [长难单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/long-hard/)
+- [翻译](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/translation/CET-6/)
+- [技巧](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/skill/CET-6/)
 
-### [政治]()
+### 政治
 
 
 ## [IT技术]()
@@ -103,5 +108,5 @@
 
 ### [JavaScript]()
 
-
 # 贡献指南
+
