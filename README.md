@@ -69,27 +69,7 @@
 
 ### 计算机组成原理
 
-
-## [考研公共课](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/)
-### 高数
-
-### 线代
-
-### 英语
-- [简单单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/simple/)
-- [难单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/hard/)
-- [长难单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/long-hard/)
-- [翻译](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/translation/CET-6/)
-- [技巧](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/skill/CET-6/)
-
-### 政治
-
-
 ## [IT技术]()
-### [Git]()
-
-### [Maven]()
-
 ### [Java基础]()
 - [Java的由来和发展历程]()
 - [Java的核心优势]()
@@ -129,6 +109,32 @@
 ### [SQL & NoSQL]()
 
 ### [JavaScript]()
+
+## [程序员必备工具]()
+- [Git]()
+- [Maven]()
+- [JetBrains 全家桶]()
+- [GitHub]()
+- [DBeaver]()
+- [Docker]()
+- [Tabby]()
+- [Draw.io]()
+- [Postman]()
+- [Cursor]()
+
+## [考研公共课](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/)
+### 高数
+
+### 线代
+
+### 英语
+- [简单单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/simple/)
+- [难单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/hard/)
+- [长难单词](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/words/long-hard/)
+- [翻译](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/translation/CET-6/)
+- [技巧](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/skill/CET-6/)
+
+### 政治
 
 # 贡献指南
 
