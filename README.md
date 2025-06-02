@@ -122,7 +122,7 @@
 - [Postman]()
 - [Cursor]()
 
-## [考研公共课](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/)
+## [考研相关](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/)
 ### 高数
 
 ### 线代
@@ -135,6 +135,10 @@
 - [技巧](https://amatureemoprince.github.io/CodeLifeThinking/postgraduate/english/skill/CET-6/)
 
 ### 政治
+
+### 考研历程
+- [2025年5月]()
+- [2025年6月]()
 
 # 贡献指南
 
