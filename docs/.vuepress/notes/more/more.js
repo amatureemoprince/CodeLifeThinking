@@ -16,6 +16,21 @@ export default defineNoteConfig({
                     link: '/more/postgraduate-process/',
                 },
                 {
+                    text: '2025年2月',
+                    icon: 'stash:data-date',
+                    link: '25-2/'
+                },
+                {
+                    text: '2025年3月',
+                    icon: 'stash:data-date',
+                    link: '25-3/'
+                },
+                {
+                    text: '2025年4月',
+                    icon: 'stash:data-date',
+                    link: '25-4/'
+                },
+                {
                     text: '2025年5月',
                     icon: 'stash:data-date',
                     link: '25-5/'
