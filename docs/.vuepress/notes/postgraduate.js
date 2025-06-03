@@ -41,9 +41,9 @@ export default defineNoteConfig({
                             link: 'hard/'
                         },
                         {
-                            text: '长难词',
+                            text: '零频词——简单词',
                             icon: 'game-icons:swords-emblem',
-                            link: 'long-hard/'
+                            link: 'zero-simple/'
                         }
                     ]
                 },
