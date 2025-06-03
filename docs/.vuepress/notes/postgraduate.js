@@ -59,6 +59,18 @@ export default defineNoteConfig({
                             link: 'CET-6/'
                         }
                     ]
+                },
+                {
+                    collapsed: true,
+                    text: '作文',
+                    icon: 'streamline-freehand-color:composition-paronama-horizontal',
+                    prefix: 'composition/',
+                    items: [
+                        {
+                            text: 'CET-6',
+                            link: 'CET-6/'
+                        }
+                    ]
                 }
             ]
         },
