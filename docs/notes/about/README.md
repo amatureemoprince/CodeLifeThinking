@@ -37,7 +37,7 @@ permalink: /about/
 
 如果读者有擅长或喜欢的技术或心得愿意分享，欢迎加入到[贡献者](https://github.com/amatureemoprince/CodeLifeThinking/pulls)的行列！
 
-本网站是作者全部手敲，如出现错别字、内容错误等情况，欢迎提交issue和pr，在这里谢谢您的指正！
+本网站内容是作者全部手敲，如出现错别字、内容错误等情况，欢迎提交issue和pr，在这里谢谢您的指正！
 
 ## 网站指南
 
