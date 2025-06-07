@@ -94,9 +94,13 @@ export default defineNoteConfig({
                         {
                             text: '一元积分学',
                             link: 'univariate-integral-calculus/',
-                            icon: 'tabler:math-integrals'
+                            icon: 'tabler:math-integral'
+                        },
+                        {
+                            text: '常微分方程',
+                            link: 'ordinary-differential-equation/',
+                            icon: 'fluent:math-format-linear-20-filled'
                         }
-
                     ]
                 },
                 {
