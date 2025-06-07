@@ -91,6 +91,11 @@ export default defineNoteConfig({
                             link: 'function-limit-continuation/',
                             icon: 'gravity-ui:function'
                         },
+                        {
+                            text: '一元积分学',
+                            link: 'univariate-integral-calculus/',
+                            icon: 'tabler:math-integrals'
+                        }
 
                     ]
                 },
