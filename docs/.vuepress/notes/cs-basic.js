@@ -43,12 +43,8 @@ export default defineNoteConfig({
             icon: 'hugeicons:structure-05',
             items: [
                 {
-                    text: '什么是数据结构',
+                    text: '绪论',
                     link: 'what-is-ds/'
-                },
-                {
-                    text: '衡量算法的标准',
-                    link: 'standard-for-measuring-algo/',
                 },
                 {
                     text: '线性表',
@@ -59,7 +55,11 @@ export default defineNoteConfig({
                     link: 'stack-queue-array/',
                 },
                 {
-                    text: '树',
+                    text: '串',
+                    link: 'string/',
+                },
+                {
+                    text: '树与二叉树',
                     link: 'tree/',
                 },
                 {
