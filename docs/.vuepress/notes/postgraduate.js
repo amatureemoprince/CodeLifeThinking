@@ -45,6 +45,12 @@ export default defineNoteConfig({
                             icon: 'game-icons:swords-emblem',
                             link: 'zero-simple/'
                         }
+                        ,
+                        {
+                            text: '零频词——难词',
+                            icon: 'icon-park-twotone:english-mustache',
+                            link: 'zero-hard/'
+                        }
                     ]
                 },
                 {
