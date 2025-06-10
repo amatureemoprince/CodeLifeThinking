@@ -116,7 +116,14 @@ export default defineNoteConfig({
                     icon: 'tabler:matrix',
                     items: [
                         {
-
+                            text: '行列式',
+                            link: 'determinant/',
+                            icon: 'healthicons:health-vulnerability-through-social-determinants-outline-24px'
+                        },
+                        {
+                            text: '矩阵',
+                            link: 'matrix/',
+                            icon: 'mdi:matrix'
                         }
                     ]
                 }
