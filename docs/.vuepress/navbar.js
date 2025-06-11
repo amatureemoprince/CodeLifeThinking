@@ -4,11 +4,12 @@ export const navbar = defineNavbarConfig([
   { text: '首页', link: '/', icon:'material-symbols:home-rounded'},
 
   { text: '知识库', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/about/',},
-
-  {text: '博客', link: '/blog/', icon:'material-symbols:article-outline', activeMatch: '^(/blog/|/article/)'},
-
-  { text: '项目', link: '/projects/', icon:'codicon:github-project', activeMatch: '^/products/'},
-
+  {
+    text: '高屋建瓴', link: '/1.gao-wu-jian-ling/README.md', icon: 'simple-icons:instructure', activeMatch: '^/1.gao-wu-jian-ling/'
+  },
+  {
+    text: '博客', link: '/blog/', icon:'material-symbols:article-outline', activeMatch: '^(/blog/|/article/)'
+  },
   {
     text: '更多',
     activeMatch: '^/more/',
