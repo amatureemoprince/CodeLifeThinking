@@ -14,13 +14,13 @@ export default defineNoteConfig({
       text: '考研公共科目', link: '/postgraduate/', icon: 'game-icons:graduate-cap',
     },
     {
-      text: 'Java技术及相关生态', link: '/it-learn/', icon: 'streamline-flex:deepfake-technology-1',
+      text: 'Java技术及相关生态', link: '/it-learn/', icon: 'skill-icons:java-dark',
     },
     {
       text: '必备生产工具', link: '/productivity-enhancement-tools/', icon: 'material-icon-theme:folder-tools-open',
     },
     {
-      text: '人工智能', link: '/artificial-intelligence/', icon: 'catppuccin:adobe-ai',
+      text: '人工智能', link: '/5.ren-gong-zhi-neng/', icon: 'catppuccin:adobe-ai',
     },
   ]
 })
