@@ -12,8 +12,15 @@ export default defineUserConfig({
     ['meta', { name: 'referrer', content: 'no-referrer' }],
     ['meta', {
       name: 'description',
-      content: '热爱生活和分享技术、设计技巧并立志成为一位优秀的个人开发者！'
+      content: '热爱生活和分享技术、设计技巧并立志成为一位优秀的软件开发者！'
     }],
+    ['meta', { charset: 'utf-8' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { name: 'keywords', content: '代码, 生活, THINKING, 技术, 编程, 设计, 软件工程师, 知识库, 个人开发, 前端, 后端, 架构, 经验分享, 博客, 教程' }],
+    ['meta', { name: 'author', content: '阿杰' }],
+    ['meta', { 'http-equiv': 'Content-Language', content: 'zh-CN' }],
+    ['meta', { property: 'og:title', content: '代码・生 活・THINKING' }],
+    ['meta', { property: 'og:type', content: 'website' }],
     ['script', { type: 'text/javascript' }, `
         (function(c,l,a,r,i,t,y){
           c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};

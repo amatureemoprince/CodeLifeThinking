@@ -106,7 +106,12 @@ export default defineNoteConfig({
                             text: '常微分方程',
                             link: 'ordinary-differential-equation/',
                             icon: 'fluent:math-format-linear-20-filled'
-                        }
+                        },
+                        {
+                            text: '二重积分',
+                            link: 'double-integral/',
+                            icon: 'tabler:math-integrals'
+                        },
                     ]
                 },
                 {
