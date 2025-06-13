@@ -18,7 +18,7 @@
 
 
     /*文章背景线条颜色*/
-    --vp-doc-blog-bg: rgba(100, 190, 190, 0.09);
+    --vp-doc-blog-bg: white; /* Changed from rgba(100, 190, 190, 0.09) to white */
     /*博客单项hover border 颜色*/
     --vp-blog-post-item-hover-border: rgba(80, 134, 161, 0.5);
     /*博客单项hover shadow*/
