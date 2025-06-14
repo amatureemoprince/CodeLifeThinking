@@ -5,7 +5,7 @@ export const navbar = defineNavbarConfig([
 
   { text: '知识库', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/about/',},
   {
-    text: '高屋建瓴', link: '/gao-wu-jian-ling/README.md', icon: 'simple-icons:instructure', activeMatch: '^/1.gao-wu-jian-ling/'
+    text: '高屋建瓴', link: '/gao-wu-jian-ling/README.md', icon: 'simple-icons:instructure', activeMatch: '^/gao-wu-jian-ling/'
   },
   {
     text: '碎碎念', link: '/blog/', icon:'material-symbols:article-outline', activeMatch: '^(/blog/|/article/)'
