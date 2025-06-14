@@ -81,23 +81,23 @@ permalink: /about/
 #### **[英语](../about/postgraduate.md)**
 ---
 
-- [简单词](../1.gao-wu-jian-ling/english/1.单词/1.简单词.md)
-- [难词](../1.gao-wu-jian-ling/english/1.单词/2.难词.md)
-- [零频词——简单词](../1.gao-wu-jian-ling/english/1.单词/3.零频词——简单词.md)
-- [零频词——难词](../1.gao-wu-jian-ling/english/1.单词/4.零频词——难词.md)
-- [翻译——CET6](../1.gao-wu-jian-ling/english/2.翻译/CET-6.md)
-- [技巧——CET6](../1.gao-wu-jian-ling/english/3.技巧/CET-6.md)
-- [作文——CET6](../1.gao-wu-jian-ling/english/4.作文/1.CET-6.md)
+- [简单词](../2.kao-yan-gong-gong-ke-mu/english/1.单词/1.简单词.md)
+- [难词](../2.kao-yan-gong-gong-ke-mu/english/1.单词/2.难词.md)
+- [零频词——简单词](../2.kao-yan-gong-gong-ke-mu/english/1.单词/3.零频词——简单词.md)
+- [零频词——难词](../2.kao-yan-gong-gong-ke-mu/english/1.单词/4.零频词——难词.md)
+- [翻译——CET6](../2.kao-yan-gong-gong-ke-mu/english/2.翻译/CET-6.md)
+- [技巧——CET6](../2.kao-yan-gong-gong-ke-mu/english/3.技巧/CET-6.md)
+- [作文——CET6](../2.kao-yan-gong-gong-ke-mu/english/4.作文/1.CET-6.md)
 
 #### **[高数](../about/postgraduate.md)**
 ---
 
-- [函数、极限、连续](../1.gao-wu-jian-ling/math/1.高数部分/1.函数、极限、连续.md)
-- [一元函数微分学](../1.gao-wu-jian-ling/math/1.高数部分/2.一元函数微分学.md)
-- [一元函数积分学](../1.gao-wu-jian-ling/math/1.高数部分/3.一元函数积分学.md)
-- [常微分方程](../1.gao-wu-jian-ling/math/1.高数部分/4.常微分方程.md)
-- [多元函数微分学](../1.gao-wu-jian-ling/math/1.高数部分/5.多元函数微分学.md)
-- [二重积分](../1.gao-wu-jian-ling/math/1.高数部分/6.二重积分.md)
+- [函数、极限、连续](../2.kao-yan-gong-gong-ke-mu/math/1.高数部分/1.函数、极限、连续.md)
+- [一元函数微分学](../2.kao-yan-gong-gong-ke-mu/math/1.高数部分/2.一元函数微分学.md)
+- [一元函数积分学](../2.kao-yan-gong-gong-ke-mu/math/1.高数部分/3.一元函数积分学.md)
+- [常微分方程](../2.kao-yan-gong-gong-ke-mu/math/1.高数部分/4.常微分方程.md)
+- [多元函数微分学](../2.kao-yan-gong-gong-ke-mu/math/1.高数部分/5.多元函数微分学.md)
+- [二重积分](../2.kao-yan-gong-gong-ke-mu/math/1.高数部分/6.二重积分.md)
 
 ## 关于贡献
 

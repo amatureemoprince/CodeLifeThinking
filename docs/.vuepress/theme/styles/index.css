@@ -107,3 +107,33 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+/* 文件路径: .vuepress/styles/index.css */
+
+.vp-doc blockquote {
+    /* 核心样式调整 */
+    padding: 8px 20px 8px 20px; /* 调整内边距，移除左侧多余空间 */
+    margin: 16px 0; /* 保持外边距不变 */
+    color: var(--vp-c-text-2); /* 调整文本颜色，通常比背景色深一些 */
+    background-color: var(--vp-c-bg-soft);
+    border-radius: 0;
+    transition: background-color var(--vp-t-color), color var(--vp-t-color); /* 保留过渡效果 */
+    border-left: 4px solid var(--vp-c-brand-1);
+    &::before,
+    &::after {
+        content: none !important; /* 强制移除任何生成的引号内容 */
+        position: static !important; /* 重置定位 */
+        font-size: 1em !important; /* 重置字体大小 */
+        margin: 0 !important; /* 重置外边距 */
+        left: auto !important; /* 重置定位 */
+        top: auto !important; /* 重置定位 */
+        transform: none !important; /* 重置任何变换 */
+        color: inherit !important; /* 重置颜色 */
+    }
+
+    /* 确保引用块内部的段落没有多余的外边距 */
+    p {
+        margin: 0;
+        line-height: 1.6;
+    }
+}
