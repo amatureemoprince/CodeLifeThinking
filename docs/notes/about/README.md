@@ -23,6 +23,8 @@ permalink: /about/
 
 我坚信，通过持续的输出、分享和思考，每个人都能养成走向卓越的习惯。希望在这里，我们能够互相启发，共同成长，让每一次的点击与阅读，都成为您通往更好自我的基石。
 
+> 本站致力于创造**优质**、**开源**、**前沿**的知识文档！
+
 ## 包含内容
 
 本站内容会持续更新，欢迎收藏！
@@ -32,7 +34,6 @@ permalink: /about/
 - 各种中间件的学习笔记
 - 前沿科技
 - 人工智能
-- 朋友圈和博客
 - 前端技术
 
 如果读者有擅长或喜欢的技术或心得愿意分享，欢迎加入到[贡献者](https://github.com/amatureemoprince/CodeLifeThinking/pulls)的行列！
@@ -41,15 +42,13 @@ permalink: /about/
 
 ## 网站指南
 
-首先介绍一下本网站资源安置规则：
+1. 知识库所有内容在此页面下方展示
 
-1. 所有知识库资料在此页面展示
+2. 建设一种全局思维[高屋建瓴](../1.gao-wu-jian-ling/README.md)
 
-2. 锻炼全局思维的资源在 [高屋建瓴](../1.gao-wu-jian-ling/README.md)
+3. 技术博客 [技术漫谈](https://amatureemoprince.github.io/CodeLifeThinking/blog/)
 
-3. 博客内容在 [碎碎念](https://amatureemoprince.github.io/CodeLifeThinking/blog/)
-
-4. 更多丰富的资源在 [更多](../more/README.md) 查看
+4. 更多资源 [更多](../more/README.md) 
 
 > 为了方便读者快速浏览本网站资源，故在这汇总所有内容！
 
