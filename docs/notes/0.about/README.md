@@ -77,7 +77,7 @@ permalink: /about/
 
 ### **考研公共科目**
 
-#### **[英语](../about/postgraduate.md)**
+#### **[英语](/postgraduate.md)**
 ---
 
 - [简单词](../2.postgraduate/english/1.单词/1.简单词.md)
@@ -88,7 +88,7 @@ permalink: /about/
 - [技巧——CET6](../2.postgraduate/english/3.技巧/CET-6.md)
 - [作文——CET6](../2.postgraduate/english/4.作文/1.CET-6.md)
 
-#### **[高数](../about/postgraduate.md)**
+#### **[高数](/postgraduate.md)**
 ---
 
 - [函数、极限、连续](../2.postgraduate/math/1.高数部分/1.函数、极限、连续.md)
