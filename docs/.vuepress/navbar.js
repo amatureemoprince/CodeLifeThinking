@@ -3,7 +3,7 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 export const navbar = defineNavbarConfig([
   { text: '首页', link: '/', icon:'material-symbols:home-rounded'},
 
-  { text: '知识库', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/about/',},
+  { text: '知识库', link: '/about/README.md', icon:'ic:outline-note-alt', activeMatch: '^/0.about/',},
   {
     text: '高屋建瓴', link: '/gao-wu-jian-ling/README.md', icon: 'simple-icons:instructure', activeMatch: '^/gao-wu-jian-ling/'
   },
@@ -23,7 +23,7 @@ export const navbar = defineNavbarConfig([
       {
         text: '关于作者',
         icon: 'akar-icons:person',
-        link: '/about-author/'
+        link: '/0.about-author/'
       },
       {
         text: '考研历程',

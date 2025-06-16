@@ -1,7 +1,7 @@
 import {defineNoteConfig} from "vuepress-theme-plume";
 
 export default defineNoteConfig({
-  dir: 'about',
+  dir: '0.about',
   link: '/about/',
   sidebar: [
     {

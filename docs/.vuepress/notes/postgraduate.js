@@ -50,6 +50,11 @@ export default defineNoteConfig({
                             text: '零频词——难词',
                             icon: 'icon-park-twotone:english-mustache',
                             link: 'zero-hard/'
+                        },
+                        {
+                            text: "不规则词",
+                            icon: 'arcticons:irregularexpressions',
+                            link: 'irregular-words/'
                         }
                     ]
                 },
