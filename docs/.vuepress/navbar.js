@@ -15,11 +15,6 @@ export const navbar = defineNavbarConfig([
     activeMatch: '^/more/',
     icon:'mingcute:more-3-fill',
     items: [
-      // {
-      //   text: '我和小媛',
-      //   link: '/xiao-yuan-and-xiao-jie/',
-      //   icon: 'material-symbols-light:ecg-heart'
-      // },
       {
         text: '关于作者',
         icon: 'akar-icons:person',
@@ -31,7 +26,7 @@ export const navbar = defineNavbarConfig([
         link: '/more/postgraduate-process/README.md',
       },
       {
-        text: '网站导航',
+        text: '优质网站',
         link: '/more/website-nav/',
         icon: 'icon-park:add-web'
       },
