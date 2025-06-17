@@ -55,6 +55,11 @@ export default defineNoteConfig({
                             text: "不规则词",
                             icon: 'arcticons:irregularexpressions',
                             link: 'irregular-words/'
+                        },
+                        {
+                            text: '熟词偏义——简单词',
+                            icon: 'ph:swap',
+                            link: 'partial-meaning-of-familiar-words/'
                         }
                     ]
                 },
