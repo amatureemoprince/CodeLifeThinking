@@ -84,6 +84,7 @@ permalink: /about/
 - [难词](../2.postgraduate/english/1.单词/2.难词.md)
 - [零频词——简单词](../2.postgraduate/english/1.单词/3.零频词——简单词.md)
 - [零频词——难词](../2.postgraduate/english/1.单词/4.零频词——难词.md)
+- [不规则词](../2.postgraduate/english/1.单词/5.不规则词.md)
 - [翻译——CET6](../2.postgraduate/english/2.翻译/CET-6.md)
 - [技巧——CET6](../2.postgraduate/english/3.技巧/CET-6.md)
 - [作文——CET6](../2.postgraduate/english/4.作文/1.CET-6.md)
