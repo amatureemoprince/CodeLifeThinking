@@ -12,7 +12,7 @@ config:
         -
           theme: brand
           text: 快速开始 →
-          link: /0.about/README.md
+          link: /about/
         -
           theme: alt
           text: Github
