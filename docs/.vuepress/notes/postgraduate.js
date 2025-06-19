@@ -108,6 +108,11 @@ export default defineNoteConfig({
                             icon: 'gravity-ui:function'
                         },
                         {
+                            text: '一元微分学',
+                            link: 'univariate-differential-calculus/',
+                            icon: 'tabler:no-derivatives'
+                        },
+                        {
                             text: '一元积分学',
                             link: 'univariate-integral-calculus/',
                             icon: 'tabler:math-integral'
