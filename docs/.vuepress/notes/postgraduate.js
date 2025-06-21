@@ -60,6 +60,11 @@ export default defineNoteConfig({
                             text: '熟词偏义——简单词',
                             icon: 'ph:swap',
                             link: 'partial-meaning-of-familiar-words/'
+                        },
+                        {
+                            text: '熟词偏义——难词',
+                            icon: 'mynaui:indifferent-ghost-solid',
+                            link: 'partial-meaning-of-hard-words/'
                         }
                     ]
                 },
