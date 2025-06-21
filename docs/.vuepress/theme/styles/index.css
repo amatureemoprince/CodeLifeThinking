@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'LogoFont'; /* 自定义字体的名称 */
+    src: url('/font/segoesc.ttf'); /* TTF字体文件的路径 */
+}
+
+/*颜色*/
+:root {
+    /*主页 卡片背景*/
+    --main-card-background: rgba(255, 255, 255, 0.8);
+    /*主页卡片边框*/
+    --main-card-border: #e3e8f7;
+    /*主页卡片阴影*/
+    --main-border-shadow: #2c2d300c;
+    /*主页 卡片 hover 颜色*/
+    --about-card-hover-bg: rgba(100, 190, 190, 0.8);
+    /*主页 按钮 背景*/
+    --home-action-bnt-bg:rgb(235, 235, 239);
+
+
+    /*文章背景线条颜色*/
+    --vp-doc-blog-bg: white; /* Changed from rgba(100, 190, 190, 0.09) to white */
+    /*博客单项hover border 颜色*/
+    --vp-blog-post-item-hover-border: rgba(80, 134, 161, 0.5);
+    /*博客单项hover shadow*/
+    --vp-blog-post-item-hover-shadow: rgba(80, 134, 161, 0.2);
+
+    /*语言 span 背景*/
+    --about-me-skill-item-bg: #f4f2ed;
+}
+[data-theme="dark"] {
+    --main-card-background: rgba(27, 28, 32, 0.8);
+    --main-card-border: #3d3d3f;
+    --main-border-shadow: #00000050;
+    --about-card-hover-bg: rgba(100, 190, 190, 0.8);
+    --home-action-bnt-bg:rgb(50, 54, 63);
+    --vp-doc-blog-bg: back;
+    --vp-blog-post-item-hover-border: rgba(80, 134, 161, 0.4);
+    --vp-blog-post-item-hover-shadow: rgba(80, 134, 161, 0.15);
+    --about-me-skill-item-bg: #15191c;
+}
+
+.vp-navbar-title span{
+    font-family: LogoFont, serif;
+    font-weight: bolder;
+    font-size: 1.05rem;
+    @media screen and (max-width: 768px) {
+        font-size: 1.0rem;
+    }
+}
+/*文章背景*/
+.vp-doc-container {
+    background: radial-gradient(farthest-side at -33.33% 50%, #0000 52%, var(--vp-doc-blog-bg) 54% 57%, #0000 59%) 0
+    calc(100px / 2),
+    radial-gradient(farthest-side at 50% 133.33%, #0000 52%, var(--vp-doc-blog-bg) 54% 57%, #0000 59%) calc(100px / 2) 0,
+    radial-gradient(farthest-side at 133.33% 50%, #0000 52%, var(--vp-doc-blog-bg) 54% 57%, #0000 59%),
+    radial-gradient(farthest-side at 50% -33.33%, #0000 52%, var(--vp-doc-blog-bg) 54% 57%, #0000 59%), rgba(103, 145, 122, 0);
+    background-size: calc(100px / 4.667) 100px, 100px calc(100px / 4.667);
+}
+/*博客页面 单个卡片效果*/
+.vp-blog-post-item{
+    @media screen and (max-width: 770px) {
+        margin: 0 0!important;
+        border-radius: 6px;
+    }
+    transition: box-shadow 0.2s ease-out,border-color 0.2s ease-out!important;
+    border: 1px rgba(255, 0, 0, 0) solid;
+    &:hover{
+        box-shadow: 0 0 7px 2px var(--vp-blog-post-item-hover-shadow)!important;
+        border: 1px var(--vp-blog-post-item-hover-border) solid;
+    }
+}
+/*单个卡片背景*/
+.about-me-card-bg{
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: var(--main-card-background);
+    border: 1px solid var(--main-card-border);
+    box-shadow: 0 8px 12px -4px var(--main-border-shadow);
+    overflow: hidden;
+}
+/*卡片 小 title*/
+.about-me-card-title-normal{
+    color: var(--vp-c-text-2);
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+/*卡片 大 text*/
+.about-me-card-text-big{
+    color: var(--vp-c-text-1);
+    margin: 10px 0;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    @media screen and (max-width: 770px) {
+        font-size: 24px;
+        margin: 7px 0;
+    }
+}
+/*卡片 暗色 text*/
+.about-me-card-text-soft{
+    color: var(--vp-c-text-2);
+}
+/*卡片 彩色 text*/
+.about-me-card-text-color{
+    background: var(--vp-bg-home-hero-name, linear-gradient(315deg, var(--vp-c-purple-1) 10%, var(--vp-c-brand-2) 75%, var(--vp-c-brand-2) 100%));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* 文件路径: .vuepress/styles/index.css */
+
+.vp-doc blockquote {
+    /* 核心样式调整 */
+    padding: 8px 20px 8px 20px; /* 调整内边距，移除左侧多余空间 */
+    margin: 16px 0; /* 保持外边距不变 */
+    color: var(--vp-c-text-2); /* 调整文本颜色，通常比背景色深一些 */
+    background-color: var(--vp-c-bg-soft);
+    border-radius: 0;
+    transition: background-color var(--vp-t-color), color var(--vp-t-color); /* 保留过渡效果 */
+    border-left: 4px solid var(--vp-c-brand-1);
+    &::before,
+    &::after {
+        content: none !important; /* 强制移除任何生成的引号内容 */
+        position: static !important; /* 重置定位 */
+        font-size: 1em !important; /* 重置字体大小 */
+        margin: 0 !important; /* 重置外边距 */
+        left: auto !important; /* 重置定位 */
+        top: auto !important; /* 重置定位 */
+        transform: none !important; /* 重置任何变换 */
+        color: inherit !important; /* 重置颜色 */
+    }
+
+    /* 确保引用块内部的段落没有多余的外边距 */
+    p {
+        margin: 0;
+        line-height: 1.6;
+    }
+}
