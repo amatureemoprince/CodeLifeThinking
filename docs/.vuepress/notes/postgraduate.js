@@ -65,6 +65,11 @@ export default defineNoteConfig({
                             text: '熟词偏义——难词',
                             icon: 'mynaui:indifferent-ghost-solid',
                             link: 'partial-meaning-of-hard-words/'
+                        },
+                        {
+                            text: '熟词生义——核心词',
+                            icon: 'fluent:important-20-filled',
+                            link: 'partial-meaning-of-important-words/'
                         }
                     ]
                 },
