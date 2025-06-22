@@ -11,7 +11,7 @@ export default defineNoteConfig({
       text: '计算机基础知识', link: '/cs-basic/', icon: 'icon-park:laptop-computer',
     },
     {
-      text: '考研公共科目', link: '/postgraduate/', icon: 'game-icons:graduate-cap',
+      text: '考研公共科目', link: '/postgraduate/', icon: 'streamline-sharp-color:global-learning-flat',
     },
     {
       text: 'Java技术及相关生态', link: '/java/', icon: 'skill-icons:java-dark',

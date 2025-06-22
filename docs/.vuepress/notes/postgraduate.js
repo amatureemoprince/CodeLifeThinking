@@ -70,6 +70,11 @@ export default defineNoteConfig({
                             text: '熟词生义——核心词',
                             icon: 'fluent:important-20-filled',
                             link: 'partial-meaning-of-important-words/'
+                        },
+                        {
+                            text: '超纲词——简单词',
+                            icon: 'file-icons:supercollider',
+                            link: 'simple-words-beyond-the-syllabus/'
                         }
                     ]
                 },
