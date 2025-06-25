@@ -75,6 +75,11 @@ export default defineNoteConfig({
                             text: '超纲词——简单词',
                             icon: 'file-icons:supercollider',
                             link: 'simple-words-beyond-the-syllabus/'
+                        },
+                        {
+                            text: '超纲词——难词',
+                            icon: 'proicons:shape-difference',
+                            link: 'hard-words-beyond-the-syllabus/'
                         }
                     ]
                 },
