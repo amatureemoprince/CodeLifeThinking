@@ -80,6 +80,11 @@ export default defineNoteConfig({
                             text: '超纲词——难词',
                             icon: 'proicons:shape-difference',
                             link: 'hard-words-beyond-the-syllabus/'
+                        },
+                        {
+                            text: '超纲词——长难词',
+                            icon: 'tabler:topology-complex',
+                            link: 'long_hard-words-beyond-the-syllabus/'
                         }
                     ]
                 },
