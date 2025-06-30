@@ -22,5 +22,8 @@ export default defineNoteConfig({
     {
       text: '人工智能', link: '/ai/', icon: 'catppuccin:adobe-ai',
     },
+    {
+      text: '考研真题总结', link: '/real-questions/', icon: 'marketeq:question',
+    }
   ]
 })
