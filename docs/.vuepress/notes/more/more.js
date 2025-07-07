@@ -53,6 +53,32 @@ export default defineNoteConfig({
             ],
         },
         {
+            text: '真题总结',
+            icon: 'streamline-freehand-color:design-process-drawing-board',
+            prefix: '/more/real-questions/',
+            collapsed: true,
+            items: [
+                {
+                    text: '高数真题',
+                    icon: 'clarity:process-on-vm-line',
+                    prefix: 'math/',
+                    collapsed: true,
+                    items: [
+                        {
+                            text: '06年真题',
+                            icon: 'devicon:processwire',
+                            link: '06/'
+                        },
+                        {
+                            text: '07年真题',
+                            icon: 'devicon:processwire',
+                            link: '07/'
+                        },
+                    ]
+                },
+            ]
+        },
+        {
             text: '优质网站',
             icon: 'arcticons:websitemonitor',
             link: '/more/website-nav/'

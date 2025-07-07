@@ -17,9 +17,6 @@ export default defineNoteConfig({
       text: 'Java技术及相关生态', link: '/java/', icon: 'skill-icons:java-dark',
     },
     {
-      text: '必备生产工具', link: '/productivity-enhancement-tools/', icon: 'material-icon-theme:folder-tools-open',
-    },
-    {
       text: '人工智能', link: '/ai/', icon: 'catppuccin:adobe-ai',
     },
     {

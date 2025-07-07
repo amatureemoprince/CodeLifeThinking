@@ -18,7 +18,7 @@ export const navbar = defineNavbarConfig([
       {
         text: '关于作者',
         icon: 'akar-icons:person',
-        link: '/0.about-author/'
+        link: '/about-author/'
       },
       {
         text: '考研历程',
@@ -26,9 +26,17 @@ export const navbar = defineNavbarConfig([
         link: '/more/postgraduate-process/README.md',
       },
       {
+        text: '真题总结',
+        icon: 'streamline-freehand-color:design-process-drawing-board',
+        link: '/more/real-questions/README.md'
+      },
+      {
         text: '优质网站',
         link: '/more/website-nav/',
         icon: 'icon-park:add-web'
+      },
+      {
+        text: '必备生产工具', link: '/productivity-enhancement-tools/', icon: 'material-icon-theme:folder-tools-open',
       },
     ]
     },
