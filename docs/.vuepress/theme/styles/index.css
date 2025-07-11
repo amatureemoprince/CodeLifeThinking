@@ -3,6 +3,26 @@
     src: url('/font/segoesc.ttf'); /* TTF字体文件的路径 */
 }
 
+:root {
+    /* 主题通用颜色 */
+    /* ... 你的其他现有颜色变量 ... */
+
+    /* GitHub 风格引用块的颜色（浅色模式）*/
+    --blockquote-border-color-light: #dfe2e5; /* 左侧边框颜色 */
+    --blockquote-background-color-light: #f6f8fa; /* 背景颜色 */
+}
+
+[data-theme="dark"] {
+    /* 深色主题通用颜色 */
+    /* ... 你的其他现有深色模式颜色变量 ... */
+    --vp-doc-blog-bg: #111111; /* 修正你原有的 `back` 拼写错误，通常是深色背景 */
+
+
+    /* GitHub 风格引用块的颜色（深色模式）*/
+    --blockquote-border-color-dark: #444c56; /* 左侧边框颜色 */
+    --blockquote-background-color-dark: #161b22; /* 背景颜色 */
+}
+
 /*颜色*/
 :root {
     /*主页 卡片背景*/
@@ -111,24 +131,30 @@
 /* 文件路径: .vuepress/styles/index.css */
 
 .vp-doc blockquote {
-    /* 核心样式调整 */
     padding: 8px 20px 8px 20px; /* 调整内边距，移除左侧多余空间 */
     margin: 16px 0; /* 保持外边距不变 */
     color: var(--vp-c-text-2); /* 调整文本颜色，通常比背景色深一些 */
-    background-color: var(--vp-c-bg-soft);
-    border-radius: 0;
+
+    /* === 关键修改：边框和背景颜色使用新的变量 === */
+    /* 默认（浅色主题）下的背景和边框颜色 */
+    background-color: var(--blockquote-background-color-light, var(--vp-c-bg-soft));
+    border-left: 4px solid var(--blockquote-border-color-light, var(--vp-c-brand-1));
+    /* ============================================== */
+
+    border-radius: 0; /* GitHub 默认引用块没有圆角，你可以根据喜好调整 */
     transition: background-color var(--vp-t-color), color var(--vp-t-color); /* 保留过渡效果 */
-    border-left: 4px solid var(--vp-c-brand-1);
+
+    /* 强制移除由主题或浏览器可能生成的引号内容 */
     &::before,
     &::after {
-        content: none !important; /* 强制移除任何生成的引号内容 */
-        position: static !important; /* 重置定位 */
-        font-size: 1em !important; /* 重置字体大小 */
-        margin: 0 !important; /* 重置外边距 */
-        left: auto !important; /* 重置定位 */
-        top: auto !important; /* 重置定位 */
-        transform: none !important; /* 重置任何变换 */
-        color: inherit !important; /* 重置颜色 */
+        content: none !important;
+        position: static !important;
+        font-size: 1em !important;
+        margin: 0 !important;
+        left: auto !important;
+        top: auto !important;
+        transform: none !important;
+        color: inherit !important;
     }
 
     /* 确保引用块内部的段落没有多余的外边距 */
