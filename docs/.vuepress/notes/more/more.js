@@ -79,8 +79,26 @@ export default defineNoteConfig({
                             icon: 'devicon:processwire',
                             link: '08/'
                         },
+                        {
+                            text: '09年真题',
+                            icon: 'devicon:processwire',
+                            link: '09/'
+                        }
                     ]
                 },
+                {
+                    text: '408真题',
+                    icon: 'icon-park:computer',
+                    prefix: '408/',
+                    collapsed: true,
+                    items: [
+                        {
+                            text: '11年真题',
+                            icon: 'devicon:processwire',
+                            link: '11/'
+                        }
+                    ]
+                }
             ]
         },
         {
