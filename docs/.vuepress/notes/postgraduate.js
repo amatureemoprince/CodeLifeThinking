@@ -32,12 +32,12 @@ export default defineNoteConfig({
                     items: [
                         {
                             text: '简单词',
-                            icon: 'ph:fire-simple-bold',
+                            icon: 'game-icons:swords-emblem',
                             link: 'simple/'
                         },
                         {
                             text: '难词',
-                            icon: 'arcticons:hard-dance',
+                            icon: 'game-icons:swords-emblem',
                             link: 'hard/'
                         },
                         {
@@ -48,42 +48,42 @@ export default defineNoteConfig({
                         ,
                         {
                             text: '零频词——难词',
-                            icon: 'icon-park-twotone:english-mustache',
+                            icon: 'game-icons:swords-emblem',
                             link: 'zero-hard/'
                         },
                         {
                             text: "不规则词",
-                            icon: 'arcticons:irregularexpressions',
+                            icon: 'game-icons:swords-emblem',
                             link: 'irregular-words/'
                         },
                         {
                             text: '熟词偏义——简单词',
-                            icon: 'ph:swap',
+                            icon: 'game-icons:swords-emblem',
                             link: 'partial-meaning-of-familiar-words/'
                         },
                         {
                             text: '熟词偏义——难词',
-                            icon: 'mynaui:indifferent-ghost-solid',
+                            icon: 'game-icons:swords-emblem',
                             link: 'partial-meaning-of-hard-words/'
                         },
                         {
                             text: '熟词生义——核心词',
-                            icon: 'fluent:important-20-filled',
+                            icon: 'game-icons:swords-emblem',
                             link: 'partial-meaning-of-important-words/'
                         },
                         {
                             text: '超纲词——简单词',
-                            icon: 'file-icons:supercollider',
+                            icon: 'game-icons:swords-emblem',
                             link: 'simple-words-beyond-the-syllabus/'
                         },
                         {
                             text: '超纲词——难词',
-                            icon: 'proicons:shape-difference',
+                            icon: 'game-icons:swords-emblem',
                             link: 'hard-words-beyond-the-syllabus/'
                         },
                         {
                             text: '超纲词——长难词',
-                            icon: 'tabler:topology-complex',
+                            icon: 'game-icons:swords-emblem',
                             link: 'long_hard-words-beyond-the-syllabus/'
                         }
                     ]
@@ -110,6 +110,10 @@ export default defineNoteConfig({
                         {
                             text: 'CET-6',
                             link: 'CET-6/'
+                        },
+                        {
+                            text: '考研作文积累',
+                            link: 'postgraduate/'
                         }
                     ]
                 }
