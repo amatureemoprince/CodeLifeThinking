@@ -8,7 +8,7 @@ export const navbar = defineNavbarConfig([
     text: '高屋建瓴', link: '/gao-wu-jian-ling/README.md', icon: 'simple-icons:instructure', activeMatch: '^/gao-wu-jian-ling/'
   },
   {
-    text: '技术漫谈', link: '/blog/', icon:'material-symbols:article-outline', activeMatch: '^(/blog/|/article/)'
+    text: '博客', link: '/blog/', icon:'material-symbols:article-outline', activeMatch: '^(/blog/|/article/)'
   },
   {
     text: '更多',

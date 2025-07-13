@@ -59,7 +59,7 @@ export default defineUserConfig({
     git: true,
 
     changelog: {
-      maxCount: 6,
+      maxCount: 10,
       repoUrl: 'https://github.com/amatureemoprince/CodeLifeThinking',
       commitUrlPattern: ':repo/commit/:hash',
       issueUrlPattern: ':repo/issues/:issue',
