@@ -139,6 +139,18 @@ export default defineNoteConfig({
                     link: 'in-out-sys/'
                 }
             ]
+        },
+        {
+            text: '强化学习',
+            icon: 'game-icons:power-lightning',
+            prefix: '/cs-basic/power',
+            collapsed: true,
+            items: [
+                {
+                    text: '数据结构',
+                    link: 'ds/',
+                }
+            ]
         }
     ],
 })
