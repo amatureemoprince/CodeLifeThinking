@@ -98,6 +98,11 @@ export default defineNoteConfig({
                             text: 'CET-6',
                             icon: 'icon-park:english-mustache',
                             link: 'CET-6/'
+                        },
+                        {
+                            text: '考研阅读',
+                            icon: 'icon-park:english-mustache',
+                            link: 'postgraduate-reading/'
                         }
                     ]
                 },
@@ -134,27 +139,22 @@ export default defineNoteConfig({
                         {
                             text: '函数、极限、连续',
                             link: 'function-limit-continuation/',
-                            icon: 'gravity-ui:function'
                         },
                         {
                             text: '一元微分学',
                             link: 'univariate-differential-calculus/',
-                            icon: 'tabler:no-derivatives'
                         },
                         {
                             text: '一元积分学',
                             link: 'univariate-integral-calculus/',
-                            icon: 'tabler:math-integral'
                         },
                         {
                             text: '常微分方程',
                             link: 'ordinary-differential-equation/',
-                            icon: 'fluent:math-format-linear-20-filled'
                         },
                         {
                             text: '二重积分',
                             link: 'double-integral/',
-                            icon: 'tabler:math-integrals'
                         },
                     ]
                 },
@@ -167,12 +167,14 @@ export default defineNoteConfig({
                         {
                             text: '行列式',
                             link: 'determinant/',
-                            icon: 'healthicons:health-vulnerability-through-social-determinants-outline-24px'
                         },
                         {
                             text: '矩阵',
                             link: 'matrix/',
-                            icon: 'mdi:matrix'
+                        },
+                        {
+                            text: '线性方程组',
+                            link: 'system-of-linear-equations/',
                         }
                     ]
                 }
