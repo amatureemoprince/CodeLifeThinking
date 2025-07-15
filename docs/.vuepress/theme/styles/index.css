@@ -131,20 +131,27 @@
 /* 文件路径: .vuepress/styles/index.css */
 
 .vp-doc blockquote {
-    padding: 8px 20px 8px 20px; /* 调整内边距，移除左侧多余空间 */
-    margin: 16px 0; /* 保持外边距不变 */
-    color: var(--vp-c-text-2); /* 调整文本颜色，通常比背景色深一些 */
+    /* 调整内边距和外边距，提供舒适的阅读空间 */
+    padding: 12px 24px; /* 略微增加内边距，让内容更舒适 */
+    margin: 20px 0;    /* 保持合理的外边距 */
 
-    /* === 关键修改：边框和背景颜色使用新的变量 === */
-    /* 默认（浅色主题）下的背景和边框颜色 */
-    background-color: var(--blockquote-background-color-light, var(--vp-c-bg-soft));
-    border-left: 4px solid var(--blockquote-border-color-light, var(--vp-c-brand-1));
-    /* ============================================== */
+    /* 默认文本颜色，通常与主题文本色保持一致 */
+    color: var(--vp-c-text-1);
 
-    border-radius: 0; /* GitHub 默认引用块没有圆角，你可以根据喜好调整 */
-    transition: background-color var(--vp-t-color), color var(--vp-t-color); /* 保留过渡效果 */
+    /* === 核心颜色变量定义（浅色主题）=== */
+    /* 背景色：比文档背景稍深一点，提供视觉区分 */
+    background-color: var(--vp-c-bg-soft);
+    /* 左侧边框颜色：通常使用主题强调色，或略微柔和的强调色 */
+    border-left: 4px solid var(--vp-c-brand-2); /* 假设 --vp-c-brand-2 是一个柔和的品牌色 */
+    /* 文本强调色：用于引用块内部可能需要强调的文本，比如粗体字 */
+    --blockquote-text-highlight-color: var(--vp-c-brand-1); /* 引入新的变量 */
+    /* ===================================== */
 
-    /* 强制移除由主题或浏览器可能生成的引号内容 */
+    border-radius: 6px; /* 引入轻微圆角，视觉更柔和 */
+    /* 保持过渡效果，让颜色切换更平滑 */
+    transition: background-color var(--vp-t-color), border-color var(--vp-t-color), color var(--vp-t-color);
+
+    /* 强制移除由主题或浏览器可能生成的引号内容，确保样式统一 */
     &::before,
     &::after {
         content: none !important;
@@ -157,9 +164,22 @@
         color: inherit !important;
     }
 
-    /* 确保引用块内部的段落没有多余的外边距 */
+    /* 确保引用块内部的段落没有多余的外边距，统一行高 */
     p {
         margin: 0;
-        line-height: 1.6;
+        line-height: 1.7; /* 略微增加行高，提升可读性 */
+    }
+
+    /* === 深色主题下的颜色调整 === */
+    /* 使用 prefers-color-scheme 媒体查询来检测深色模式 */
+    @media (prefers-color-scheme: dark) {
+        /* 深色模式下的背景色：通常比文档背景亮一点点，提供区分 */
+        background-color: var(--vp-c-bg-alt);
+        /* 深色模式下的左侧边框颜色：保持强调色，但可能亮度略有调整 */
+        border-left-color: var(--vp-c-brand-1); /* 品牌色通常在深色模式下也保持一致 */
+        /* 深色模式下的文本颜色：根据主题调整，通常为浅色 */
+        color: var(--vp-c-text-1);
+        /* 深色模式下的文本强调色 */
+        --blockquote-text-highlight-color: var(--vp-c-brand-2);
     }
 }
