@@ -149,6 +149,10 @@ export default defineNoteConfig({
                             link: 'univariate-integral-calculus/',
                         },
                         {
+                            text: '多元微分学',
+                            link: 'multivariate-differential-calculus/',
+                        },
+                        {
                             text: '常微分方程',
                             link: 'ordinary-differential-equation/',
                         },

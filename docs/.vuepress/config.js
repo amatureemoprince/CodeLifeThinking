@@ -123,6 +123,7 @@ export default defineUserConfig({
       jsfiddle: true,     // 启用嵌入 jsfiddle 语法 @[jsfiddle](user/id)
       npmTo: true,        // 启用 npm-to 容器  ::: npm-to
       demo: true,         // 启用 demo 容器  ::: demo
+      markmap: true,
       repl: {             // 启用 代码演示容器
         c: true,
         go: true,         // ::: go-repl
