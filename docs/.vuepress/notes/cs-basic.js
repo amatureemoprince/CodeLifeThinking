@@ -149,6 +149,10 @@ export default defineNoteConfig({
                 {
                     text: '数据结构',
                     link: 'ds/',
+                },
+                {
+                    text: '打卡表',
+                    link: 'da-ka/'
                 }
             ]
         }
