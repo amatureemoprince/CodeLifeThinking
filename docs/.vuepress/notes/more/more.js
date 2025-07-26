@@ -128,6 +128,11 @@ export default defineNoteConfig({
                     collapsed: true,
                     items: [
                         {
+                            text: '09年真题',
+                            icon: 'devicon:processwire',
+                            link: '09/'
+                        },
+                        {
                             text: '11年真题',
                             icon: 'devicon:processwire',
                             link: '11/'

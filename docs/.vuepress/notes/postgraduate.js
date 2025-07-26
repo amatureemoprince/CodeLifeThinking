@@ -135,6 +135,7 @@ export default defineNoteConfig({
                     text: '高数',
                     prefix: 'higher-mathematics/',
                     icon: 'simple-icons:sagemath',
+                    collapsed: true,
                     items: [
                         {
                             text: '函数、极限、连续',
