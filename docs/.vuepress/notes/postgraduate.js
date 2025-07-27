@@ -178,6 +178,10 @@ export default defineNoteConfig({
                             link: 'matrix/',
                         },
                         {
+                            text: '向量组',
+                            link: 'vector-system/',
+                        },
+                        {
                             text: '线性方程组',
                             link: 'system-of-linear-equations/',
                         }
