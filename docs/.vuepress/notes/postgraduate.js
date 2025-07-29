@@ -184,6 +184,10 @@ export default defineNoteConfig({
                         {
                             text: '线性方程组',
                             link: 'system-of-linear-equations/',
+                        },
+                        {
+                            text: '二次型',
+                            link: 'quadratic-type/',
                         }
                     ]
                 }
