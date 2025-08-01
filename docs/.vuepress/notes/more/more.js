@@ -46,6 +46,11 @@ export default defineNoteConfig({
                     link: '25-7/'
                 },
                 {
+                    text: '2025年8月',
+                    icon: 'stash:data-date',
+                    link: '25-8/'
+                },
+                {
                     text: '暑假期间任务进度表',
                     icon: 'streamline-freehand-color:design-process-drawing-board-education',
                     link: 'shu-qi-process-table/'
