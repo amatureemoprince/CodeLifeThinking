@@ -18,3 +18,17 @@ permalink: /more/website-nav/
 [Java英文官方学习文档](https://docs.oracle.com/)
 
 [设计模式学习](https://refactoringguru.cn/)
+
+[维基百科](https://zh.wikipedia.org/)
+
+[JavaScript教程](https://zh.javascript.info/)
+
+[THE ODIN PROJECT](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+[前言技术论坛](https://daily.dev/)
+
+[MDN](https://developer.mozilla.org/)
+
+[技术摘抄专栏](https://learn.lianglianglee.com/)
+
+[React学习教程](https://zh-hans.react.dev/)
