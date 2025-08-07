@@ -148,6 +148,11 @@ export default defineNoteConfig({
                             text: '21年真题',
                             icon: 'devicon:processwire',
                             link: '21/'
+                        },
+                        {
+                            text: '22年真题',
+                            icon: 'devicon:processwire',
+                            link: '22/'
                         }
                     ]
                 },
