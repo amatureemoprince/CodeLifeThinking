@@ -32,3 +32,5 @@ permalink: /more/website-nav/
 [技术摘抄专栏](https://learn.lianglianglee.com/)
 
 [React学习教程](https://zh-hans.react.dev/)
+
+[成为独立开发者的必看网站](https://ft07.com/)
