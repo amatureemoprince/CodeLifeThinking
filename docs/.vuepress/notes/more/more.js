@@ -54,6 +54,11 @@ export default defineNoteConfig({
                     text: '2025年9月',
                     icon: 'stash:data-date',
                     link: '25-9/'
+                },
+                {
+                    text: '2025年10月',
+                    icon: 'stash:data-date',
+                    link: '25-10/'
                 }
             ],
         },
